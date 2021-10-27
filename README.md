@@ -15,4 +15,9 @@ Notebook de l'extraction d'embedding par image : [Test_retrieval_errors](https:/
 
 Notebook sur l'évaluation par style : [Style_Robustness](https://github.com/yannistannier/Icons50-bonus/blob/master/Style_Robustness_references.ipynb)
 
+Notebook sur l'evaluation par retrieval par style : [Style_retrieval](https://github.com/yannistannier/Icons50-bonus/blob/master/Style_Robustness_retrieval.ipynb)
+
+
 Notebook sur l'évaluation par SubType : [SubType_Robustness](https://github.com/yannistannier/Icons50-bonus/blob/master/SubType_Robustness_references.ipynb)
+
+Notebook sur l'evaluation par retrieval par SubType : [SubType_retrieval](https://github.com/yannistannier/Icons50-bonus/blob/master/SubType_Robustness_retrieval.ipynb)
